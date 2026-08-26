@@ -7,6 +7,7 @@ Los cambios relevantes de Comu se documentan en este archivo.
 ### Incorporado
 
 - Nuevo nombre e identidad Comu.
+- Icono minimalista de onda para la aplicacion y el instalador.
 - Dictado local para Windows mediante `whisper.cpp` y modelos GGML Q5.
 - Modos Preciso y Rapido.
 - Indicador compacto con nivel de audio, estados y cancelacion.
